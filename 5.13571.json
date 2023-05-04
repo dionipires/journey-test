@@ -1,284 +1,287 @@
 [
-  {
-    "finishedItemSupplierCompanies": [
-      {
-        "name": "Z N CONFECCOES (CELIO ROBERTO DE MENDONCA PEREIRA)",
-        "taxId": "13900385000195",
-        "address": {
-          "state": "MG",
-          "city": "SAO JOAO NEPOMUCENO"
-        },
-        "documents": null
-      }
-    ],
-    "finishedFeedstockSupplierCompanies": [
-      {
-        "name": "MP COMPANHIA INDUSTRIAL CATAGUASES",
-        "taxId": "19526748000150",
-        "address": {
-          "state": "MG",
-          "city": "CATAGUASES"
-        },
-        "documents": [
-          {
-            "file": "https://fairfashiondev.blob.core.windows.net/fairfashiondev/companies/3dc03e31-3117-4e71-8644-7c8da259d0d5/certificates/certificado2.pdf?sv=2021-10-04&spr=https&se=2023-12-31T00%3A00%3A00Z&sr=b&sp=r&sig=ioKC80XFlxHFUQcAy0ejPfsJK71vqglx9mCUNmZmnhI%3D",
-            "name": "OEKO-TEX"
-          }
-        ]
-      }
-    ],
-    "intermediateFeedstockSupplierCompanies": [],
-    "rawFeedstockSupplierCompanies": [
-      {
-        "name": "LOUIS DREYFUS COMPANY BRASIL S.A.",
-        "taxId": "47067525000108",
-        "address": {
-          "state": "SP",
-          "city": "SAO PAULO"
-        },
-        "documents": null
-      }
-    ],
-    "primarySupplierCompanies": [
-      {
-        "name": "FAZ JARDIM OLIVEIRAS",
-        "taxId": null,
-        "address": {
-          "state": "MS",
-          "city": "Bonito"
-        },
-        "documents": null
-      },
-      {
-        "name": "FAZ JARDIM OLIVEIRAS II",
-        "taxId": null,
-        "address": {
-          "state": "MS",
-          "city": "Bonito"
-        },
-        "documents": null
-      },
-      {
-        "name": "Saco da Tapera II",
-        "taxId": null,
-        "address": {
-          "state": "MG",
-          "city": "São Romão"
-        },
-        "documents": null
-      },
-      {
-        "name": "Saco da Tapera",
-        "taxId": null,
-        "address": {
-          "state": "MG",
-          "city": "São Romão"
-        },
-        "documents": null
-      },
-      {
-        "name": "FAZENDA VILA OLIMPIA II",
-        "taxId": null,
-        "address": {
-          "state": "MS",
-          "city": "Bonito"
-        },
-        "documents": null
-      },
-      {
-        "name": "FAZENDA VILA OLIMPIA",
-        "taxId": null,
-        "address": {
-          "state": "MS",
-          "city": "Bonito"
-        },
-        "documents": null
-      },
-      {
-        "name": "Fazenda Italac",
-        "taxId": null,
-        "address": {
-          "state": "MG",
-          "city": "São Romão"
-        },
-        "documents": null
-      },
-      {
-        "name": "Fazenda Italac II",
-        "taxId": null,
-        "address": {
-          "state": "MG",
-          "city": "São Romão"
-        },
-        "documents": null
-      }
-    ]
-  },
-  {
-    "finishedItemSupplierCompanies": [
-      {
-        "name": "Z N CONFECCOES (CELIO ROBERTO DE MENDONCA PEREIRA)        ",
-        "taxId": "13900385000195",
-        "address": {
-          "state": "MG",
-          "city": "SAO JOAO NEPOMUCENO"
-        },
-        "documents": null
-      }
-    ],
-    "finishedFeedstockSupplierCompanies": [
-      {
-        "name": "MP COMPANHIA INDUSTRIAL CATAGUASES",
-        "taxId": "19526748000150",
-        "address": {
-          "state": "MG",
-          "city": "CATAGUASES"
-        },
-        "documents": [
-          {
-            "file": "https://fairfashiondev.blob.core.windows.net/fairfashiondev/companies/3dc03e31-3117-4e71-8644-7c8da259d0d5/certificates/certificado2.pdf?sv=2021-10-04&spr=https&se=2023-12-31T00%3A00%3A00Z&sr=b&sp=r&sig=ioKC80XFlxHFUQcAy0ejPfsJK71vqglx9mCUNmZmnhI%3D",
-            "name": "OEKO-TEX"
-          }
-        ]
-      }
-    ],
-    "intermediateFeedstockSupplierCompanies": [],
-    "rawFeedstockSupplierCompanies": [
-      {
-        "name": "LOUIS DREYFUS COMPANY BRASIL S.A.",
-        "taxId": "47067525000108",
-        "address": {
-          "state": "SP",
-          "city": "SAO PAULO"
-        },
-        "documents": null
-      }
-    ],
-    "primarySupplierCompanies": [
-      {
-        "name": "FAZ JARDIM OLIVEIRAS",
-        "taxId": null,
-        "address": {
-          "state": "MS",
-          "city": "Bonito"
-        },
-        "documents": null
-      },
-      {
-        "name": "FAZ JARDIM OLIVEIRAS II",
-        "taxId": null,
-        "address": {
-          "state": "MS",
-          "city": "Bonito"
-        },
-        "documents": null
-      },
-      {
-        "name": "Saco da Tapera II",
-        "taxId": null,
-        "address": {
-          "state": "MG",
-          "city": "São Romão"
-        },
-        "documents": null
-      },
-      {
-        "name": "Saco da Tapera",
-        "taxId": null,
-        "address": {
-          "state": "MG",
-          "city": "São Romão"
-        },
-        "documents": null
-      },
-      {
-        "name": "FAZENDA VILA OLIMPIA II",
-        "taxId": null,
-        "address": {
-          "state": "MS",
-          "city": "Bonito"
-        },
-        "documents": null
-      },
-      {
-        "name": "FAZENDA VILA OLIMPIA",
-        "taxId": null,
-        "address": {
-          "state": "MS",
-          "city": "Bonito"
-        },
-        "documents": null
-      },
-      {
-        "name": "Fazenda Italac",
-        "taxId": null,
-        "address": {
-          "state": "MG",
-          "city": "São Romão"
-        },
-        "documents": null
-      },
-      {
-        "name": "Fazenda Italac II",
-        "taxId": null,
-        "address": {
-          "state": "MG",
-          "city": "São Romão"
-        },
-        "documents": null
-      }
-    ]
-  },
-  {
-    "finishedItemSupplierCompanies": [
-      {
-        "name": "Z N CONFECCOES (CELIO ROBERTO DE MENDONCA PEREIRA)",
-        "taxId": "13900385000195",
-        "address": {
-          "state": "MG",
-          "city": "SAO JOAO NEPOMUCENO"
-        },
-        "documents": null
-      }
-    ],
-    "finishedFeedstockSupplierCompanies": [
-      {
-        "name": "MP COMPANHIA INDUSTRIAL CATAGUASES",
-        "taxId": "19526748000150",
-        "address": {
-          "state": "MG",
-          "city": "CATAGUASES"
-        },
-        "documents": [
-          {
-            "file": "https://fairfashiondev.blob.core.windows.net/fairfashiondev/companies/3dc03e31-3117-4e71-8644-7c8da259d0d5/certificates/certificado2.pdf?sv=2021-10-04&spr=https&se=2023-12-31T00%3A00%3A00Z&sr=b&sp=r&sig=ioKC80XFlxHFUQcAy0ejPfsJK71vqglx9mCUNmZmnhI%3D",
-            "name": "OEKO-TEX"
-          }
-        ]
-      }
-    ],
-    "intermediateFeedstockSupplierCompanies": [
-      {
-        "name": "COOPERBEM - COOPERATIVA DE BENEFICIAMENTO DE ALGODAO DO MATO GROSSO",
-        "taxId": "07660940000156",
-        "address": {
-          "state": "MT",
-          "city": "CAMPO VERDE"
-        },
-        "documents": null
-      }
-    ],
-    "rawFeedstockSupplierCompanies": [],
-    "primarySupplierCompanies": [
-      {
-        "name": "FAZ INDAIÁ II",
-        "taxId": null,
-        "address": {
-          "state": "MS",
-          "city": "Boa Vista"
-        },
-        "documents": null
-      }
-    ]
-  }
+{
+"finishedItemSupplierCompanies":[
+{
+"name":"Z N CONFECCOES (CELIO ROBERTO DE MENDONCA PEREIRA) ",
+"taxId":"13900385000195",
+"address":{
+"state":"MG",
+"city":"SAO JOAO NEPOMUCENO"
+},
+"documents":null
+}
+],
+"finishedFeedstockSupplierCompanies":[
+{
+"name":"MP COMPANHIA INDUSTRIAL CATAGUASES",
+"taxId":"19526748000150",
+"address":{
+"state":"MG",
+"city":"CATAGUASES"
+},
+"documents":[
+{
+"file":"https://fairfashiondev.blob.core.windows.net/fairfashiondev/companies/3dc03e31-3117-4e71-8644-7c8da259d0d5/certificates/certificado2.pdf?sv=2021-10-04&spr=https&se=2023-12-31T00%3A00%3A00Z&sr=b&sp=r&sig=ioKC80XFlxHFUQcAy0ejPfsJK71vqglx9mCUNmZmnhI%3D",
+"name":"OEKO-TEX"
+}
+]
+}
+],
+"intermediateFeedstockSupplierCompanies":[
+],
+"rawFeedstockSupplierCompanies":[
+{
+"name":"LOUIS DREYFUS COMPANY BRASIL S.A.",
+"taxId":"47067525000108",
+"address":{
+"state":"SP",
+"city":"SAO PAULO"
+},
+"documents":null
+}
+],
+"primarySupplierCompanies":[
+{
+"name":"FAZ JARDIM OLIVEIRAS",
+"taxId":null,
+"address":{
+"state":"MS",
+"city":"Bonito"
+},
+"documents":null
+},
+{
+"name":"FAZ JARDIM OLIVEIRAS II",
+"taxId":null,
+"address":{
+"state":"MS",
+"city":"Bonito"
+},
+"documents":null
+},
+{
+"name":"Saco da Tapera II",
+"taxId":null,
+"address":{
+"state":"MG",
+"city":"São Romão"
+},
+"documents":null
+},
+{
+"name":"Saco da Tapera",
+"taxId":null,
+"address":{
+"state":"MG",
+"city":"São Romão"
+},
+"documents":null
+},
+{
+"name":"FAZENDA VILA OLIMPIA II",
+"taxId":null,
+"address":{
+"state":"MS",
+"city":"Bonito"
+},
+"documents":null
+},
+{
+"name":"FAZENDA VILA OLIMPIA",
+"taxId":null,
+"address":{
+"state":"MS",
+"city":"Bonito"
+},
+"documents":null
+},
+{
+"name":"Fazenda Italac",
+"taxId":null,
+"address":{
+"state":"MG",
+"city":"São Romão"
+},
+"documents":null
+},
+{
+"name":"Fazenda Italac II",
+"taxId":null,
+"address":{
+"state":"MG",
+"city":"São Romão"
+},
+"documents":null
+}
+]
+},
+{
+"finishedItemSupplierCompanies":[
+{
+"name":"Z N CONFECCOES (CELIO ROBERTO DE MENDONCA PEREIRA) ",
+"taxId":"13900385000195",
+"address":{
+"state":"MG",
+"city":"SAO JOAO NEPOMUCENO"
+},
+"documents":null
+}
+],
+"finishedFeedstockSupplierCompanies":[
+{
+"name":"MP COMPANHIA INDUSTRIAL CATAGUASES",
+"taxId":"19526748000150",
+"address":{
+"state":"MG",
+"city":"CATAGUASES"
+},
+"documents":[
+{
+"file":"https://fairfashiondev.blob.core.windows.net/fairfashiondev/companies/3dc03e31-3117-4e71-8644-7c8da259d0d5/certificates/certificado2.pdf?sv=2021-10-04&spr=https&se=2023-12-31T00%3A00%3A00Z&sr=b&sp=r&sig=ioKC80XFlxHFUQcAy0ejPfsJK71vqglx9mCUNmZmnhI%3D",
+"name":"OEKO-TEX"
+}
+]
+}
+],
+"intermediateFeedstockSupplierCompanies":[
+],
+"rawFeedstockSupplierCompanies":[
+{
+"name":"LOUIS DREYFUS COMPANY BRASIL S.A.",
+"taxId":"47067525000108",
+"address":{
+"state":"SP",
+"city":"SAO PAULO"
+},
+"documents":null
+}
+],
+"primarySupplierCompanies":[
+{
+"name":"FAZ JARDIM OLIVEIRAS",
+"taxId":null,
+"address":{
+"state":"MS",
+"city":"Bonito"
+},
+"documents":null
+},
+{
+"name":"FAZ JARDIM OLIVEIRAS II",
+"taxId":null,
+"address":{
+"state":"MS",
+"city":"Bonito"
+},
+"documents":null
+},
+{
+"name":"Saco da Tapera II",
+"taxId":null,
+"address":{
+"state":"MG",
+"city":"São Romão"
+},
+"documents":null
+},
+{
+"name":"Saco da Tapera",
+"taxId":null,
+"address":{
+"state":"MG",
+"city":"São Romão"
+},
+"documents":null
+},
+{
+"name":"FAZENDA VILA OLIMPIA II",
+"taxId":null,
+"address":{
+"state":"MS",
+"city":"Bonito"
+},
+"documents":null
+},
+{
+"name":"FAZENDA VILA OLIMPIA",
+"taxId":null,
+"address":{
+"state":"MS",
+"city":"Bonito"
+},
+"documents":null
+},
+{
+"name":"Fazenda Italac",
+"taxId":null,
+"address":{
+"state":"MG",
+"city":"São Romão"
+},
+"documents":null
+},
+{
+"name":"Fazenda Italac II",
+"taxId":null,
+"address":{
+"state":"MG",
+"city":"São Romão"
+},
+"documents":null
+}
+]
+},
+{
+"finishedItemSupplierCompanies":[
+{
+"name":"Z N CONFECCOES (CELIO ROBERTO DE MENDONCA PEREIRA) ",
+"taxId":"13900385000195",
+"address":{
+"state":"MG",
+"city":"SAO JOAO NEPOMUCENO"
+},
+"documents":null
+}
+],
+"finishedFeedstockSupplierCompanies":[
+{
+"name":"MP COMPANHIA INDUSTRIAL CATAGUASES",
+"taxId":"19526748000150",
+"address":{
+"state":"MG",
+"city":"CATAGUASES"
+},
+"documents":[
+{
+"file":"https://fairfashiondev.blob.core.windows.net/fairfashiondev/companies/3dc03e31-3117-4e71-8644-7c8da259d0d5/certificates/certificado2.pdf?sv=2021-10-04&spr=https&se=2023-12-31T00%3A00%3A00Z&sr=b&sp=r&sig=ioKC80XFlxHFUQcAy0ejPfsJK71vqglx9mCUNmZmnhI%3D",
+"name":"OEKO-TEX"
+}
+]
+}
+],
+"intermediateFeedstockSupplierCompanies":[
+{
+"name":"COOPERBEM - COOPERATIVA DE BENEFICIAMENTO DE ALGODAO DO MATO GROSSO",
+"taxId":"07660940000156",
+"address":{
+"state":"MT",
+"city":"CAMPO VERDE"
+},
+"documents":null
+}
+],
+"rawFeedstockSupplierCompanies":[
+],
+"primarySupplierCompanies":[
+{
+"name":"FAZ INDAIÁ II",
+"taxId":null,
+"address":{
+"state":"MS",
+"city":"Boa Vista"
+},
+"documents":null
+}
+]
+}
 ]
