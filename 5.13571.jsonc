@@ -1,18 +1,18 @@
 [
-  //Esteretornopossui3itensnoarraypoisestásimulandoumSKUparaoqualrecebemosváriasentradaviaLinxsignificandoqueoSKUfoiproduzidoemmomentosdiferentese/ouemfornecedoresdiferentes{
+  {
     "finishedItemSupplierCompanies": [
-      //Facção(poderáhaverumoumaisfornecedores){
-        "name": "Z N CONFECCOES (CELIO ROBERTO DE MENDONCA PEREIRA)        ",
-        //nomedofornecedor(aindapendentedefiniçãosobrequaisfornecedoresparceirosterãoseusnomesdivulgados)"taxId": "13900385000195",
-        //CNPJdofornecedor(nãodeverásercompartilhado)"address": {
+      {
+        "name": "Z N CONFECCOES (CELIO ROBERTO DE MENDONCA PEREIRA)",
+        "taxId": "13900385000195",
+        "address": {
           "state": "MG",
-          //estadodofornecedor"city": "SAO JOAO NEPOMUCENO"//cidadedofornecedor
+          "city": "SAO JOAO NEPOMUCENO"
         },
-        "documents": null//casoofornecedorpossuaumoumaiscertificadosseráenviadonestearrayeoSomapoderáoptarpordivulgá-lo
+        "documents": null
       }
     ],
     "finishedFeedstockSupplierCompanies": [
-      //TecelagemOUFiaçãoeTecelagem(poderáhaverumoumaisfornecedores){
+      {
         "name": "MP COMPANHIA INDUSTRIAL CATAGUASES",
         "taxId": "19526748000150",
         "address": {
@@ -27,12 +27,9 @@
         ]
       }
     ],
-    "intermediateFeedstockSupplierCompanies": [
-      
-    ],
-    //Fiação(seestivervazioéporqueofornecedordotipoanteriorcobreosserviçosdeFiaçãoeTecelagem,
-    poderáhaverumoumaisfornecedores)"rawFeedstockSupplierCompanies": [
-      //FornecedordaFibradoAlgodão(poderáhaverumoumaisfornecedores){
+    "intermediateFeedstockSupplierCompanies": [],
+    "rawFeedstockSupplierCompanies": [
+      {
         "name": "LOUIS DREYFUS COMPANY BRASIL S.A.",
         "taxId": "47067525000108",
         "address": {
@@ -43,7 +40,7 @@
       }
     ],
     "primarySupplierCompanies": [
-      //Fazendas(poderáhaverumoumaisfornecedores){
+      {
         "name": "FAZ JARDIM OLIVEIRAS",
         "taxId": null,
         "address": {
@@ -145,9 +142,7 @@
         ]
       }
     ],
-    "intermediateFeedstockSupplierCompanies": [
-      
-    ],
+    "intermediateFeedstockSupplierCompanies": [],
     "rawFeedstockSupplierCompanies": [
       {
         "name": "LOUIS DREYFUS COMPANY BRASIL S.A.",
@@ -237,7 +232,7 @@
   {
     "finishedItemSupplierCompanies": [
       {
-        "name": "Z N CONFECCOES (CELIO ROBERTO DE MENDONCA PEREIRA)        ",
+        "name": "Z N CONFECCOES (CELIO ROBERTO DE MENDONCA PEREIRA)",
         "taxId": "13900385000195",
         "address": {
           "state": "MG",
@@ -273,9 +268,7 @@
         "documents": null
       }
     ],
-    "rawFeedstockSupplierCompanies": [
-      
-    ],
+    "rawFeedstockSupplierCompanies": [],
     "primarySupplierCompanies": [
       {
         "name": "FAZ INDAIÁ II",
