@@ -8,7 +8,12 @@
 					"state": "MG",
 					"city": "SAO JOAO NEPOMUCENO"
 				},
-				"documents": null
+				"documents": [
+					{
+						"file": "https://fairfashiondev.blob.core.windows.net/fairfashiondev/companies/3dc03e31-3117-4e71-8644-7c8da259d0d5/certificates/certificado2.pdf?sv=2021-10-04&spr=https&se=2023-12-31T00%3A00%3A00Z&sr=b&sp=r&sig=ioKC80XFlxHFUQcAy0ejPfsJK71vqglx9mCUNmZmnhI%3D",
+						"name": "OEKO-TEX"
+					}
+				]
 			}
 		],
 		"finishedFeedstockSupplierCompanies": [
